@@ -54,7 +54,7 @@ isNew:true,
 shop:"dhaka"
     },
     bike:{
-model:"yamaha",
+model:"yamaha bike",
 price:2345
     }
 }
